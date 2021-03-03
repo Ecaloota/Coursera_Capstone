@@ -130,3 +130,6 @@ dmypy.json
 
 # ipynb checkpoints
 .ipynb_checkpoints/
+
+# git attributes
+.gitattributes
